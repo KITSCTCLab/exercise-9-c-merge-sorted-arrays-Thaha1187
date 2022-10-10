@@ -1,6 +1,6 @@
 from typing import List
 
-def merge(nums1: List[int], m: int, nums2: List[int], n: int) -> None
+def merge(nums1: List[int], m: int, nums2: List[int], n: int) -> None:
   # Write code here
   
   x = nums1[0:m]
@@ -61,4 +61,4 @@ m = int(input())
 n = int(input())
 
 print(merge(nums1, m, nums2, n))
-print(nums1)
+print(nums1
