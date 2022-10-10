@@ -60,5 +60,4 @@ for item in input().split(', '):
 m = int(input())
 n = int(input())
 
-print(merge(nums1, m, nums2, n))
-print(nums1)             
+print(merge(nums1, m, nums2, n))           
